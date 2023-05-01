@@ -4,7 +4,7 @@ An unofficial repo to track confirmed compatible/non-compatible games with legac
 
 ## Playstation 4
 
-| Game Title                                 | GP2040-CE | GP2040-CE (PS4) | GP2040-CE + Brook Wingman XE 2 Converter | Notes                                            |
+| Game Title                                 | GP2040-CE (PS3) | GP2040-CE (PS4) | GP2040-CE + Brook Wingman XE 2 Converter | Notes                                            |
 |--------------------------------------------|:---------:|:---------------:|:----------------------------------------:|--------------------------------------------------|
 | BlazBlue Central Fiction                   |     ✅     |                 |                     ✅                    | You have to turn of DS4 for Legacy mode to work. |
 | BlazBlue Cross Tag Battle                  |     ❌     |                 |                     ✅                    |                                                  |
