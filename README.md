@@ -4,19 +4,34 @@ An unofficial repo to track confirmed compatible/non-compatible games with legac
 
 ## Playstation 4
 
-| Game Title                                 | GP2040-CE v0.6.3 | GP2040-CE v0.6.3 + Brook Wingman XE 2 Converter |
-|--------------------------------------------|:----------------:|:-----------------------------------------------:|
-| BlazBlue Central Fiction                   |         ✅        |                                                 |
-| Dragon Ball Fighter Z                      |         ❌        |                                                 |
-| Granblue Fantasy Versus                    |         ❌        |                                                 |
-| Guilty Gear Strive                         |         ❌        |                                                 |
-| Guilty Gear Xrd                            |         ✅        |                                                 |
-| Mortal Kombat 11                           |         ✅        |                                                 |
-| Mortal Kombat X                            |         ✅        |                                                 |
-| Skull Girls                                |         ✅        |                                                 |
-| Soul Calibur VI                            |         ✅        |                                                 |
-| Street Fighter 30th Anniversary Collection |         ❌        |                                                 |
-| Street Fighter V                           |         ✅        |                                                 |
-| Tekken 7                                   |         ✅        |                                                 |
-| The King of Fighters XIV                   |         ✅        |                                                 |
-| The King of Fighters XV                    |         ❌        |                                                 |
+| Game Title                                 | GP2040-CE | GP2040-CE (PS4) | GP2040-CE + Brook Wingman XE 2 Converter | Notes                                            |
+|--------------------------------------------|:---------:|:---------------:|:----------------------------------------:|--------------------------------------------------|
+| BlazBlue Central Fiction                   |     ✅     |                 |                     ✅                    | You have to turn of DS4 for Legacy mode to work. |
+| BlazBlue Cross Tag Battle                  |     ❌     |                 |                     ✅                    |                                                  |
+| Chaos Code New Sign of Catastrophe         |     ❌     |                 |                     ✅                    |                                                  |
+| DEAD OR ALIVE 5 Last Round                 |     ❌     |                 |                     ✅                    |                                                  |
+| DEAD OR ALIVE 6                            |     ❌     |                 |                     ✅                    |                                                  |
+| Dragon Ball Fighter Z                      |     ❌     |                 |                     ✅                    |                                                  |
+| Garou: Mark of the Wolves                  |     ✅     |                 |                     ✅                    |                                                  |
+| Granblue Fantasy Versus                    |     ❌     |                 |                     ✅                    |                                                  |
+| Guilty Gear Strive                         |     ❌     |                 |                     ✅                    |                                                  |
+| Guilty Gear Xrd (Rev1+2)                   |     ✅     |                 |                     ✅                    |                                                  |
+| Guilty Gear Xrd Sign                       |     ❌     |                 |                     ✅                    |                                                  |
+| Koihime Enbu RyoRaiRai	                     |     ✅     |                 |                     ✅                    | Needs DS4 for Main Menu Navigation               |
+| Marvel vs. Capcom: Infinite                |     ❌     |                 |                     ✅                    |                                                  |
+| Melty Blood: Type Lumina                   |           |                 |                     ✅                    |                                                  |
+| Mortal Kombat 11                           |     ✅     |                 |                     ✅                    |                                                  |
+| Mortal Kombat X                            |     ✅     |                 |                     ✅                    |                                                  |
+| Persona 4: Arena Ultimax                   |     ❌     |                 |                     ✅                    |                                                  |
+| Power Rangers: Battle for the Grid         |     ❌     |                 |                     ✅                    |                                                  |
+| Skullgirls 2nd Encore                      |     ✅     |                 |                     ✅                    |                                                  |
+| Soul Calibur VI                            |     ✅     |                 |                     ✅                    |                                                  |
+| Street Fighter 30th Anniversary Collection |     ❌     |                 |                     ✅                    |                                                  |
+| Street Fighter V                           |     ✅     |                 |                     ✅                    |                                                  |
+| Tekken 7                                   |     ✅     |                 |                     ✅                    |                                                  |
+| The King of Fighters XIV                   |     ✅     |                 |                     ✅                    |                                                  |
+| The King of Fighters XV                    |     ❌     |                 |                                          |                                                  |
+| The Last Blade 2                           |     ✅     |                 |                     ✅                    |                                                  |
+| Ultimate Marvel vs. Capcom 3               |     ❌     |                 |                     ✅                    |                                                  |
+| UNDER NIGHT IN-BIRTH Exe:Late[cl-r]        |     ✅     |                 |                     ✅                    |                                                  |
+| Virtua Fighter 5: Ultimate Showdown        |     ❌     |                 |                     ✅                    |                                                  |
