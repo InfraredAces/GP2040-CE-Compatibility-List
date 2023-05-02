@@ -1,4 +1,4 @@
-# GP2040-CE Legacy Controller Compatibility List
+# [GP2040-CE Legacy Controller Compatibility List](https://github.com/InfraredAces/GP2040-CE-Compatibility-List)
 
 An unofficial repo to track confirmed compatible/non-compatible games with legacy controller support using GP2040-CE. No guarantee can be made that this list is 100% correct and up to date as it is based off of observation and individual testing. As games and GP2040-CE are updated, the data may become outdated so a word of warning.
 
