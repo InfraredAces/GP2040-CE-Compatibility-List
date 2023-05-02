@@ -4,7 +4,7 @@ An unofficial repo to track confirmed compatible/non-compatible games with legac
 
 Project URL: [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE)
 
-Documentation: [GP2040-CE | Community Edition Firmware](https://gp2040-ce.info/#/)
+Documentation: [GP2040-CE Community Edition Firmware](https://gp2040-ce.info/#/)
 
 Current Version: [v0.7.0](https://github.com/OpenStickCommunity/GP2040-CE/releases/tag/v0.7.0)
 
