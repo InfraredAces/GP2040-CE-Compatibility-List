@@ -10,7 +10,7 @@ Current Version: [v0.7.0](https://github.com/OpenStickCommunity/GP2040-CE/releas
 
 ## Playstation 4
 
-| Game Title                                 | GP2040-CE (PS3) | GP2040-CE (PS4) | GP2040-CE + Brook Wingman XE 2 Converter | Notes                                            |
+| Game Title                                 | GP2040-CE | GP2040-CE (PS4) | GP2040-CE + Brook Wingman XE 2 Converter | Notes                                            |
 |--------------------------------------------|:---------:|:---------------:|:----------------------------------------:|--------------------------------------------------|
 | BlazBlue Central Fiction                   |     ✅     |                 |                     ✅                    | You have to turn of DS4 for Legacy mode to work. |
 | BlazBlue Cross Tag Battle                  |     ❌     |                 |                     ✅                    |                                                  |
@@ -25,7 +25,7 @@ Current Version: [v0.7.0](https://github.com/OpenStickCommunity/GP2040-CE/releas
 | Guilty Gear Xrd Sign                       |     ❌     |                 |                     ✅                    |                                                  |
 | Koihime Enbu RyoRaiRai	                     |     ✅     |                 |                     ✅                    | Needs DS4 for Main Menu Navigation               |
 | Marvel vs. Capcom: Infinite                |     ❌     |                 |                     ✅                    |                                                  |
-| Melty Blood: Type Lumina                   |           |                 |                     ✅                    |                                                  |
+| Melty Blood: Type Lumina                   |     ✅     |                 |                     ✅                    |                                                  |
 | Mortal Kombat 11                           |     ✅     |                 |                     ✅                    |                                                  |
 | Mortal Kombat X                            |     ✅     |                 |                     ✅                    |                                                  |
 | Persona 4: Arena Ultimax                   |     ❌     |                 |                     ✅                    |                                                  |
@@ -41,6 +41,9 @@ Current Version: [v0.7.0](https://github.com/OpenStickCommunity/GP2040-CE/releas
 | Ultimate Marvel vs. Capcom 3               |     ❌     |                 |                     ✅                    |                                                  |
 | UNDER NIGHT IN-BIRTH Exe:Late[cl-r]        |     ✅     |                 |                     ✅                    |                                                  |
 | Virtua Fighter 5: Ultimate Showdown        |     ❌     |                 |                     ✅                    |                                                  |
+| ESP Ra.De. Psi                             |     ✅     |                 |                                          |                                                  |
+| Battle Garegga                             |     ✅     |                 |                                          |                                                  |
+| Cave Ketsui Deathtiny Kizuna Jigoku Tachi  |     ✅     |                 |                                          |                                                  |
 
 # PS5
 
