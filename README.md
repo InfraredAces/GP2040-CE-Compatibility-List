@@ -2,6 +2,12 @@
 
 An unofficial repo to track confirmed compatible/non-compatible games with legacy controller support using GP2040-CE. No guarantee can be made that this list is 100% correct and up to date as it is based off of observation and individual testing. As games and GP2040-CE are updated, the data may become outdated so a word of warning.
 
+Project URL: [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE)
+
+Documentation: [GP2040-CE | Community Edition Firmware](https://gp2040-ce.info/#/)
+
+Current Version: [v0.7.0](https://github.com/OpenStickCommunity/GP2040-CE/releases/tag/v0.7.0)
+
 ## Playstation 4
 
 | Game Title                                 | GP2040-CE (PS3) | GP2040-CE (PS4) | GP2040-CE + Brook Wingman XE 2 Converter | Notes                                            |
