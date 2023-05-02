@@ -35,3 +35,11 @@ An unofficial repo to track confirmed compatible/non-compatible games with legac
 | Ultimate Marvel vs. Capcom 3               |     ❌     |                 |                     ✅                    |                                                  |
 | UNDER NIGHT IN-BIRTH Exe:Late[cl-r]        |     ✅     |                 |                     ✅                    |                                                  |
 | Virtua Fighter 5: Ultimate Showdown        |     ❌     |                 |                     ✅                    |                                                  |
+
+# PS5
+
+| Game Title             | Version    | GP2040-CE (PS4) | GP2040-CE + Brook Wingman FGC Converter | GP2040-CE + Brook Wingman PS5 Converter | Notes |
+|------------------------|------------|:---------------:|:---------------------------------------:|:---------------------------------------:|-------|
+| Street Fighter 6 Demo  | PS4 on PS5 |        ✅        |                                         |                                         |       |
+| Tetris The Grandmaster | PS4 on PS5 |        ✅        |                                         |                                         |       |
+| Dead Cells             | PS4 on PS5 |        ✅        |                                         |                                         |       |
