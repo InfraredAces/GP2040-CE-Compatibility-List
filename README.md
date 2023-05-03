@@ -12,12 +12,15 @@ Current Version: [v0.7.0](https://github.com/OpenStickCommunity/GP2040-CE/releas
 
 | Game Title                                 | GP2040-CE | GP2040-CE (PS4) | GP2040-CE + Brook Wingman XE 2 Converter | Notes                                            |
 |--------------------------------------------|:---------:|:---------------:|:----------------------------------------:|--------------------------------------------------|
+| Battle Garegga                             |     ✅     |                 |                                          |                                                  |
 | BlazBlue Central Fiction                   |     ✅     |                 |                     ✅                    | You have to turn of DS4 for Legacy mode to work. |
 | BlazBlue Cross Tag Battle                  |     ❌     |                 |                     ✅                    |                                                  |
+| Cave Ketsui Deathtiny Kizuna Jigoku Tachi  |     ✅     |                 |                                          |                                                  |
 | Chaos Code New Sign of Catastrophe         |     ❌     |                 |                     ✅                    |                                                  |
 | DEAD OR ALIVE 5 Last Round                 |     ❌     |                 |                     ✅                    |                                                  |
 | DEAD OR ALIVE 6                            |     ❌     |                 |                     ✅                    |                                                  |
 | Dragon Ball Fighter Z                      |     ❌     |                 |                     ✅                    |                                                  |
+| ESP Ra.De. Psi                             |     ✅     |                 |                                          |                                                  |
 | Garou: Mark of the Wolves                  |     ✅     |                 |                     ✅                    |                                                  |
 | Granblue Fantasy Versus                    |     ❌     |                 |                     ✅                    |                                                  |
 | Guilty Gear Strive                         |     ❌     |                 |                     ✅                    |                                                  |
@@ -41,14 +44,11 @@ Current Version: [v0.7.0](https://github.com/OpenStickCommunity/GP2040-CE/releas
 | Ultimate Marvel vs. Capcom 3               |     ❌     |                 |                     ✅                    |                                                  |
 | UNDER NIGHT IN-BIRTH Exe:Late[cl-r]        |     ✅     |                 |                     ✅                    |                                                  |
 | Virtua Fighter 5: Ultimate Showdown        |     ❌     |                 |                     ✅                    |                                                  |
-| ESP Ra.De. Psi                             |     ✅     |                 |                                          |                                                  |
-| Battle Garegga                             |     ✅     |                 |                                          |                                                  |
-| Cave Ketsui Deathtiny Kizuna Jigoku Tachi  |     ✅     |                 |                                          |                                                  |
 
 # PS5
 
 | Game Title             | Version    | GP2040-CE (PS4) | GP2040-CE + Brook Wingman FGC Converter | GP2040-CE + Brook Wingman PS5 Converter | Notes |
 |------------------------|------------|:---------------:|:---------------------------------------:|:---------------------------------------:|-------|
+| Dead Cells             | PS4 on PS5 |        ✅        |                                         |                                         |       |
 | Street Fighter 6 Demo  | PS4 on PS5 |        ✅        |                                         |                                         |       |
 | Tetris The Grandmaster | PS4 on PS5 |        ✅        |                                         |                                         |       |
-| Dead Cells             | PS4 on PS5 |        ✅        |                                         |                                         |       |
