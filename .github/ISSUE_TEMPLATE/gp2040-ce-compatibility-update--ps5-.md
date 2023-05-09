@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-| Game Title | Version               | GP2040-CE (PS4) | GP2040-CE + Brook Wingman FGC Converter | GP2040-CE + Brook Wingman PS5 Converter | Notes |
-|------------|-----------------------|:---------------:|:---------------------------------------:|:---------------------------------------:|-------|
-| NAME       | PS4 on PS5/Native PS5 |      ✅ or ❌     | ✅ or ❌                                  | ✅ or ❌                                  |       |
-
-Set Addition or Correction label
+| Game Title | Version               | GP2040-CE (PS4) | GP2040-CE + Brook Wingman FGC Converter | Notes |
+|------------|-----------------------|:---------------:|:---------------------------------------:|-------|
+| NAME       | PS4 on PS5/Native PS5 |      ✅ or ❌     | ✅ or ❌                                  |       |

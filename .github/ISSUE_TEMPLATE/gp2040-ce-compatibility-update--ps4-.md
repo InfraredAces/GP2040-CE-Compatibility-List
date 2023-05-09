@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-| Game Title | GP2040-CE (PS3) | GP2040-CE (PS4) | GP2040-CE + Brook Wingman XE 2 Converter | Notes |
-|------------|:---------------:|:---------------:|:----------------------------------------:|-------|
-| NAME       |      ✅ or ❌     |      ✅ or ❌     |                  ✅ or ❌                  |       |
-
-Set Addition or Correction Label
+| Game Title | GP2040-CE (PS3) | GP2040-CE + Brook Wingman XE 2 Converter | Notes |
+|------------|:---------------:|:----------------------------------------:|-------|
+| NAME       |      ✅ or ❌     |                  ✅ or ❌                  |       |
