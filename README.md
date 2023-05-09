@@ -6,17 +6,18 @@ Project URL: [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE)
 
 Documentation: [GP2040-CE Community Edition Firmware](https://gp2040-ce.info/#/)
 
-Current Version: [v0.7.0](https://github.com/OpenStickCommunity/GP2040-CE/releases/tag/v0.7.0)
+Current Version: [v0.7.0](https://gp2040-ce.info/#/download)
 
 ## Playstation 4
 
-| Game Title                                 | GP2040-CE | GP2040-CE (PS4) | GP2040-CE + Brook Wingman XE 2 Converter | Notes                                            |
+| Game Title                                 | GP2040-CE (PS3) | GP2040-CE (PS4) | GP2040-CE (PS3) + Brook Wingman XE 2 Converter | Notes                                            |
 |--------------------------------------------|:---------:|:---------------:|:----------------------------------------:|--------------------------------------------------|
 | Battle Garegga                             |     ✅     |                 |                                          |                                                  |
 | BlazBlue Central Fiction                   |     ✅     |                 |                     ✅                    | You have to turn of DS4 for Legacy mode to work. |
 | BlazBlue Cross Tag Battle                  |     ❌     |                 |                     ✅                    |                                                  |
 | Cave Ketsui Deathtiny Kizuna Jigoku Tachi  |     ✅     |                 |                                          |                                                  |
 | Chaos Code New Sign of Catastrophe         |     ❌     |                 |                     ✅                    |                                                  |
+| Dangun Feveron                             |     ✅     |                 |                                          |                                                  |
 | DEAD OR ALIVE 5 Last Round                 |     ❌     |                 |                     ✅                    |                                                  |
 | DEAD OR ALIVE 6                            |     ❌     |                 |                     ✅                    |                                                  |
 | Dragon Ball Fighter Z                      |     ❌     |                 |                     ✅                    |                                                  |
