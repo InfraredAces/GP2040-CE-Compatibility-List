@@ -17,6 +17,7 @@ Current Version: [v0.7.0](https://github.com/OpenStickCommunity/GP2040-CE/releas
 | BlazBlue Cross Tag Battle                  |     ❌     |                 |                     ✅                    |                                                  |
 | Cave Ketsui Deathtiny Kizuna Jigoku Tachi  |     ✅     |                 |                                          |                                                  |
 | Chaos Code New Sign of Catastrophe         |     ❌     |                 |                     ✅                    |                                                  |
+| Dangun Feveron                             |     ✅     |                 |                                          |                                                  |
 | DEAD OR ALIVE 5 Last Round                 |     ❌     |                 |                     ✅                    |                                                  |
 | DEAD OR ALIVE 6                            |     ❌     |                 |                     ✅                    |                                                  |
 | Dragon Ball Fighter Z                      |     ❌     |                 |                     ✅                    |                                                  |
