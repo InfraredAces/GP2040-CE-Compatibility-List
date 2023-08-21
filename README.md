@@ -1,4 +1,4 @@
-# [GP2040-CE Compatibility List](https://github.com/InfraredAces/GP2040-CE-Compatibility-List)
+Repo: [GP2040-CE Compatibility List](https://github.com/InfraredAces/GP2040-CE-Compatibility-List)
 
 An unofficial repo to track confirmed compatiblity/non-compatiblity with controller support using GP2040-CE. No guarantee can be made that this list is 100% correct and up to date as it is based off of observation and individual testing. As games and GP2040-CE are updated, the data may become outdated so a word of warning.
 
@@ -30,8 +30,9 @@ This list is only considering PS5 versions of games on PS5 as PS4 mode should wo
 
 With the addition of the USB Passthrough Authentication Add-on in GP2040-CE v 0.7.4, PS4 and non-native PS5 compatibility is available.
 
-| Manufacturer | Controller/Dongle | Console              | Notes                    |
-|--------------|-------------------|----------------------|--------------------------|
-| Mayflash     | Magic Boots       | PS4/PS5 (Non-Native) | V1.1 only, DO NOT UPDATE |
-| Mayflash     | Magic S Ultimate  | PS4/PS5 (Non-Native) | Not 100% Working         |
-| Brook        | Wingman FGC       | PS4/PS5 (Non-Native) |                          |
+| Manufacturer | Controller/Dongle    | Console              | Notes                    | Link                                                          |
+|--------------|----------------------|----------------------|--------------------------|---------------------------------------------------------------|
+| Mayflash     | Magic Boots          | PS4/PS5 (Non-Native) | V1.1 only, DO NOT UPDATE | https://www.mayflash.com/product/MAGPS4.html                  |
+| Mayflash     | Magic S Ultimate     | PS4/PS5 (Non-Native) | Not 100% Working         | https://www.mayflash.com/product/magic_s_ultimate.html        |
+| Brook        | Wingman FGC          | PS4/PS5 (Non-Native) |                          | https://www.brookaccessory.com/products/wingmanfgc/index.html |
+| Razer        | Raion Wired Fightpad | PS4/PS5 (Non-Native) |                          | https://www.razer.com/eu-en/console-controllers/razer-raion   |
