@@ -18,13 +18,24 @@ As of GP2040-CE v0.7.4, USB Passthrough Authentication is also available to have
 
 # Playstation 5
 
-This list is only considering PS5 versions of games on PS5 as PS4 mode should work 
+This list is only considering PS5 versions of games on PS5 as PS4 mode should work on all PS4 versions of a game on PS5.
 
-| Game Title             | GP2040-CE (PS4 Mode) | GP2040-CE (USB Passthrough) | Notes |
-|------------------------|:--------------------:|:---------------------------:|-------|
-| Dead Cells             |           ✅          |                             |       |
-| Street Fighter 6 Demo  |           ✅          |                             |       |
-| Tetris The Grandmaster |           ✅          |                             |       |
+| Game Title          | GP2040-CE USB Passthrough (PS5 Version) | Notes                                     |
+|---------------------|:---------------------------------------:|-------------------------------------------|
+| Breakers Collection |                    ❌                    | Does not support Specialty Devices at all |
+| Gran Turismo 7      |                    🚗                    |                                           |
+| Guilty Gear Strive  |                    🕹️                    |                                           |
+| Hitman 3            |                    🕗                    |                                           |
+| Street Fighter 6    |                    🕹️                    |                                           |
+
+| Symbol | Meaning                                                     |
+|:------:|-------------------------------------------------------------|
+|    ✅   | Full Compatibility                                          |
+|    ❌   | No Compatibility                                            |
+|    🕗   | Compatibility with GP2040-CE PS5 Mode, without USB Passthrough, Has 8 minute timeout |
+|    🕹️   | Compatibility if using a PS4 Arcade Controller              |
+|    🚗   | Compatibility if using a PS4 Steering Wheel                 |
+|    ✈️   | Compatibility if using a PS4 Flight Joystick                |
 
 # USB Passthrough Authentication (PS4/PS5)
 
