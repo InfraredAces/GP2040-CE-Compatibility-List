@@ -30,9 +30,13 @@ This list is only considering PS5 versions of games on PS5 as PS4 mode should wo
 
 With the addition of the USB Passthrough Authentication Add-on in GP2040-CE v 0.7.4, PS4 and non-native PS5 compatibility is available.
 
+Non-native PS5: Able to be used with PS5 games that support 3rd Party licensed PS4 controllers and arcade sticks
+
 | Manufacturer | Controller/Dongle    | Console              | Notes                    | Link                                                          |
 |--------------|----------------------|----------------------|--------------------------|---------------------------------------------------------------|
 | Mayflash     | Magic Boots          | PS4/PS5 (Non-Native) | V1.1 only, DO NOT UPDATE | https://www.mayflash.com/product/MAGPS4.html                  |
 | Mayflash     | Magic S Ultimate     | PS4/PS5 (Non-Native) | Not 100% Working         | https://www.mayflash.com/product/magic_s_ultimate.html        |
 | Brook        | Wingman FGC          | PS4/PS5 (Non-Native) |                          | https://www.brookaccessory.com/products/wingmanfgc/index.html |
 | Razer        | Raion Wired Fightpad | PS4/PS5 (Non-Native) |                          | https://www.razer.com/eu-en/console-controllers/razer-raion   |
+
+
