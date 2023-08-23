@@ -45,8 +45,8 @@ PS5 (Non-Native): Able to be used with PS5 games that support 3rd Party licensed
 
 | Manufacturer | Controller/Dongle    | Console              | Notes                    | Link                                                          |
 |--------------|----------------------|----------------------|--------------------------|---------------------------------------------------------------|
-| Mayflash     | Magic Boots          | PS4/PS5 (Non-Native) | V1.1 only, DO NOT UPDATE | https://www.mayflash.com/product/MAGPS4.html                  |
-| Mayflash     | Magic S Ultimate     | PS4/PS5 (Non-Native) | Not 100% Working         | https://www.mayflash.com/product/magic_s_ultimate.html        |
+| Mayflash     | Magic Boots          | PS4/PS5 (Non-Native) | V1.1+ firmware only, DO NOT UPDATE | https://www.mayflash.com/product/MAGPS4.html                  |
+| Mayflash     | Magic S Ultimate     | PS4/PS5 (Non-Native) | V1.06+ firmware only           | https://www.mayflash.com/product/magic_s_ultimate.html        |
 | Brook        | Wingman FGC          | PS4/PS5 (Non-Native) |                          | https://www.brookaccessory.com/products/wingmanfgc/index.html |
 | Razer        | Raion Wired Fightpad | PS4/PS5 (Non-Native) |                          | https://www.razer.com/eu-en/console-controllers/razer-raion   |
 
