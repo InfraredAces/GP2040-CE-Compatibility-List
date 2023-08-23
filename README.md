@@ -41,7 +41,7 @@ This list is only considering PS5 versions of games on PS5 as PS4 mode should wo
 
 With the addition of the USB Passthrough Authentication Add-on in GP2040-CE v 0.7.4, PS4 and non-native PS5 compatibility is available.
 
-Non-native PS5: Able to be used with PS5 games that support 3rd Party licensed PS4 controllers and arcade sticks
+PS5 (Non-Native): Able to be used with PS5 games that support 3rd Party licensed PS4 controllers and arcade sticks
 
 | Manufacturer | Controller/Dongle    | Console              | Notes                    | Link                                                          |
 |--------------|----------------------|----------------------|--------------------------|---------------------------------------------------------------|
