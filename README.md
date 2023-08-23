@@ -20,7 +20,7 @@ As of GP2040-CE v0.7.4, USB Passthrough Authentication is also available to have
 
 This list is only considering PS5 versions of games on PS5 as PS4 mode should work on all PS4 versions of a game on PS5.
 
-| Game Title          | GP2040-CE USB Passthrough (PS5 Version) | Notes                                     |
+| Game Title          | GP2040-CE (PS5 Version) | Notes                                     |
 |---------------------|:---------------------------------------:|-------------------------------------------|
 | Breakers Collection |                    ❌                    | Does not support Specialty Devices at all |
 | Gran Turismo 7      |                    🚗                    |                                           |
