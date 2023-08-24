@@ -19,30 +19,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Read Playstation 5 Compatibility CSV
-        id: ps5-csv
-        uses: juliangruber/read-file-action@v1
-        with:
-          path: ./playstation-5-Compatibility.csv
-          
-      - name: Create Playstation 5 Compatibility MD
-        uses: petems/csv-to-md-table-action@master
-        id: ps5-csv-table-output
-        with:
-          csvinput: ${{ steps.ps5-csv.outputs.content }}
-
-      - name: Read USB Passthrough Authentication Device CSV
-        id: usb-pt-csv
-        uses: juliangruber/read-file-action@v1
-        with:
-          path: ./usb-passthrough-devices.csv
-          
-      - name: Create USB Passthrough MD
-        uses: petems/csv-to-md-table-action@master
-        id: usb-pt-csv-table-output
-        with:
-          csvinput: ${{ steps.usb-pt-csv.outputs.content }}
-
       - name: Copy TEMPLATE to README
         run: |
           cp TEMPLATE.md README.md
