@@ -1,5 +1,5 @@
 import pandas as pd
-s
+
 ps5_compatibility = pd.read_csv('GP2040-CE Compatibility List - PS5 Games.csv', keep_default_na=False, usecols=[*range(0, 3, 1)],colalign=("left", "center", "left"))
 usb_passthrough_devices = pd.read_csv('GP2040-CE Compatibility List - USB Passthrough.csv', keep_default_na=False, usecols=[*range(0, 4, 1)], colalign=("center", "left", "center", "right", "center"))
 
