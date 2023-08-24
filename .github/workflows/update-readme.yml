@@ -45,6 +45,6 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           branch: 'GP2040-CE-Compatibility-List/publish'
-          commit_message: 'Create PR to publish branch'
+          commit-message: 'Create PR to publish branch'
 
 
