@@ -20,12 +20,12 @@ As of GP2040-CE v0.7.4, USB Passthrough Authentication is also available to have
 
 This list is only considering PS5 versions of games on PS5 as PS4 mode should work on all PS4 versions of a game on PS5.
 
-| Game Title             | GP2040-CE (PS4 Version)   | Notes                                     | Contributor   |
-|:-----------------------|:--------------------------|:------------------------------------------|:--------------|
-| Dead Cells             | ✅                         |                                           | Wren          |
-| Street Fighter 6 Demo  | ✅                         |                                           | SGFDevices    |
-| Tetris The Grandmaster | ✅                         |                                           | Wren          |
-| Breakers Collection    | ❌                         | Does not support Specialty Devices at all | bss           |
+| Game Title             | GP2040-CE (PS4 Version)   |
+|:-----------------------|:--------------------------|
+| Dead Cells             | ✅                         |
+| Street Fighter 6 Demo  | ✅                         |
+| Tetris The Grandmaster | ✅                         |
+| Breakers Collection    | ❌                         |
 
 | Symbol | Meaning                                                     |
 |:------:|-------------------------------------------------------------|
@@ -42,10 +42,9 @@ With the addition of the USB Passthrough Authentication Add-on in GP2040-CE v 0.
 
 PS5 (Non-Native): Able to be used with PS5 games that support 3rd Party licensed PS4 controllers and arcade sticks
 
-| Manufacturer   | Controller/Dongle    | Console              | Notes                            | Link                                                          | Source   | Unnamed: 6   | Unnamed: 7                                      |
-|:---------------|:---------------------|:---------------------|:---------------------------------|:--------------------------------------------------------------|:---------|:-------------|:------------------------------------------------|
-| Mayflash       | Magic Boots          | PS4/PS5 (Non-Native) | V1.1 only, DO NOT UPDATE (Brick) | https://www.mayflash.com/product/MAGPS4.html                  | TheTrain |              | GitHub Repo                                     |
-| Mayflash       | Magic S Ultimate     | PS4/PS5 (Non-Native) | V1.06 only                       | https://www.mayflash.com/product/magic_s_ultimate.html        | TheTrain |              | GP2040-CE Legacy Controller Compatibility List  |
-| Brook          | Wingman FGC          | PS4/PS5 (Non-Native) |                                  | https://www.brookaccessory.com/products/wingmanfgc/index.html | TheTrain |              |                                                 |
-| Razer          | Raion Wired Fightpad | PS4/PS5 (Non-Native) |                                  | https://www.razer.com/eu-en/console-controllers/razer-raion   | jfedor   |              | Markdown Table Generator                        |
-|                |                      |                      |                                  |                                                               |          |              | Markdown Tables generator - TablesGenerator.com |
+| Manufacturer   | Controller-Dongle    | Console              | Notes                            |
+|:---------------|:---------------------|:---------------------|:---------------------------------|
+| Mayflash       | Magic Boots          | PS4/PS5 (Non-Native) | V1.1 only, DO NOT UPDATE (Brick) |
+| Mayflash       | Magic S Ultimate     | PS4/PS5 (Non-Native) | V1.06 only                       |
+| Brook          | Wingman FGC          | PS4/PS5 (Non-Native) |                                  |
+| Razer          | Raion Wired Fightpad | PS4/PS5 (Non-Native) |                                  |
