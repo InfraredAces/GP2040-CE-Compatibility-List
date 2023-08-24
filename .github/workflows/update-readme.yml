@@ -40,12 +40,11 @@ jobs:
           commit_message: Replace Current Tables with New Tables
           branch: main
 
-      - name: Push from main to publish branch.
-        uses: Automattic/action-commit-to-branch@master
+      - name: Create Pull Request to publish
+        uses: peter-evans/create-pull-request@v5
         with:
-          branch: 'publish'
-          commit_message: 'Push to publish branch'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # Required
+          token: ${{ secrets.GH_TOKEN }}
+          branch: 'GP2040-CE-Compatibility-List/publish'
+          commit_message: 'Create PR to publish branch'
 
 
