@@ -8,7 +8,7 @@ Project URL: [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE)
 
 Documentation: [GP2040-CE Community Edition Firmware](https://gp2040-ce.info/#/)
 
-Current Version: [v0.7.3](https://gp2040-ce.info/#/download)
+Current Version: [v0.7.4](https://gp2040-ce.info/#/download)
 
 ## Playstation 4
 
