@@ -35,3 +35,10 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Replace Current Tables with New Tables
+          branch: main
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Publish page
+          branch: publish
+
