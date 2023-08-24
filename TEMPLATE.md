@@ -2,14 +2,21 @@ Repo: [GP2040-CE Compatibility List](https://github.com/InfraredAces/GP2040-CE-C
 
 An unofficial repo to track confirmed compatiblity/non-compatiblity with controller support using GP2040-CE. No guarantee can be made that this list is 100% correct and up to date as it is based off of observation and individual testing. As games and GP2040-CE are updated, the data may become outdated so a word of warning.
 
-If you notice an entry that is incorrectly listed, please submit an issue with the update.
+If you notice an entry that is incorrectly listed, please submit an submit a response with the update to the forms below.
 
-Project URL: [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE)
+[GP2040-CE - PS5 Game Compatibility Google Form](https://forms.gle/5G8N6FiZHyZYVgox6)
 
-Documentation: [GP2040-CE Community Edition Firmware](https://gp2040-ce.info/#/)
+[GP2040-CE - USB Passthrough Authentication Add-on Compatibility Google Form](https://forms.gle/9SeHYNZwP9sDN49g7)
 
-Current Version: [v0.7.4](https://gp2040-ce.info/#/download)
+---
 
+[GP2040-CE Project URL](https://github.com/OpenStickCommunity/GP2040-CE)
+
+[GP2040-CE Community Edition Firmware Documentation](https://gp2040-ce.info/#/)
+
+[Current Version Download](https://gp2040-ce.info/#/download)
+
+---
 ## Playstation 4
 
 With the addition of the PS4 Mode and PS4 Authentication Add-On in GP2040-CE v0.7.1, all PS4 games are now compatible with GP2040-CE controllers in PS4 mode. However, unless authentications files are provided, the controller may be subject to an 8 minute timeout.

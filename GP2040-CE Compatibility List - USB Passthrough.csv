@@ -1,5 +1,5 @@
-Manufacturer,Controller-Dongle,Console,Notes,Link,Source
-Mayflash,Magic Boots,PS4/PS5 (Non-Native),"V1.1 only, DO NOT UPDATE (Brick)",https://www.mayflash.com/product/MAGPS4.html,TheTrain
-Mayflash,Magic S Ultimate,PS4/PS5 (Non-Native),V1.06 only,https://www.mayflash.com/product/magic_s_ultimate.html,TheTrain
-Brook,Wingman FGC,PS4/PS5 (Non-Native),,https://www.brookaccessory.com/products/wingmanfgc/index.html,TheTrain
-Razer,Raion Wired Fightpad,PS4/PS5 (Non-Native),,https://www.razer.com/eu-en/console-controllers/razer-raion,jfedor
+Timestamp,Manufacturer,Controller-Dongle,Console Compatibility,Notes,Link,"Name, Discord Username, or Gamer Tag"
+8/23/2023 23:49:56,Brook,Wingman FGC,"PS4, PS5 (Non-Native)",,https://www.brookaccessory.com/products/wingmanfgc/index.html,TheTrain
+8/23/2023 23:46:10,Mayflash,Magic Boots,"PS4, PS5 (Non-Native)",V1.1 only - DO NOT UPDATE (Brick),https://www.mayflash.com/product/MAGPS4.html,TheTrain
+8/23/2023 23:48:01,Mayflash,Magic S Ultimate,"PS4, PS5 (Non-Native)","V1.06 only, V1.05 only allows PS4",https://www.mayflash.com/product/magic_s_ultimate.html,_pettman
+8/23/2023 23:48:55,Razer,Raion Wired Fightpad,"PS4, PS5 (Non-Native)",,https://www.razer.com/eu-en/console-controllers/razer-raion,jfedor
