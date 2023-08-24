@@ -2,14 +2,21 @@ Repo: [GP2040-CE Compatibility List](https://github.com/InfraredAces/GP2040-CE-C
 
 An unofficial repo to track confirmed compatiblity/non-compatiblity with controller support using GP2040-CE. No guarantee can be made that this list is 100% correct and up to date as it is based off of observation and individual testing. As games and GP2040-CE are updated, the data may become outdated so a word of warning.
 
-If you notice an entry that is incorrectly listed, please submit an issue with the update.
+If you notice an entry that is incorrectly listed, please submit an submit a response with the update to the forms below.
 
-Project URL: [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE)
+[GP2040-CE - PS5 Game Compatibility Google Form](https://forms.gle/5G8N6FiZHyZYVgox6)
 
-Documentation: [GP2040-CE Community Edition Firmware](https://gp2040-ce.info/#/)
+[GP2040-CE - USB Passthrough Authentication Add-on Compatibility Google Form](https://forms.gle/9SeHYNZwP9sDN49g7)
 
-Current Version: [v0.7.4](https://gp2040-ce.info/#/download)
+---
 
+[GP2040-CE Project URL](https://github.com/OpenStickCommunity/GP2040-CE)
+
+[GP2040-CE Community Edition Firmware Documentation](https://gp2040-ce.info/#/)
+
+[Current Version Download](https://gp2040-ce.info/#/download)
+
+---
 ## Playstation 4
 
 With the addition of the PS4 Mode and PS4 Authentication Add-On in GP2040-CE v0.7.1, all PS4 games are now compatible with GP2040-CE controllers in PS4 mode. However, unless authentications files are provided, the controller may be subject to an 8 minute timeout.
@@ -20,13 +27,13 @@ As of GP2040-CE v0.7.4, USB Passthrough Authentication is also available to have
 
 This list is only considering PS5 versions of games on PS5 as PS4 mode should work on all PS4 versions of a game on PS5.
 
-| Game Title          |  GP2040-CE (PS5 Version)  | Notes                                     |
-|:--------------------|:-------------------------:|:------------------------------------------|
-| Breakers Collection |             ❌             | Does not support Specialty Devices at all |
-| Gran Turismo 7      |             🚗             |                                           |
-| Guilty Gear Strive  |            🕹️             |                                           |
-| Hitman 3            |             🕗             |                                           |
-| Street Fighter 6    |            🕹️             |                                           |
+| Game Title          |  GP2040-CE  | Notes                                     |
+|:--------------------|:-----------:|:------------------------------------------|
+| Breakers Collection |      ❌      | Does not support Specialty Devices at all |
+| Gran Turismo 7      |      🚗      |                                           |
+| Guilty Gear Strive  |     🕹️      |                                           |
+| Hitman 3            |      🕗      |                                           |
+| Street Fighter 6    |     🕹️      |                                           |
 
 | Symbol | Meaning                                                     |
 |:------:|-------------------------------------------------------------|
@@ -43,9 +50,9 @@ With the addition of the USB Passthrough Authentication Add-on in GP2040-CE v 0.
 
 PS5 (Non-Native): Able to be used with PS5 games that support 3rd Party licensed PS4 controllers and arcade sticks
 
-|  Manufacturer  | Controller-Dongle    |       Console        | Notes                            | Link                                                          |
-|:--------------:|:---------------------|:--------------------:|:---------------------------------|:--------------------------------------------------------------|
-|    Mayflash    | Magic Boots          | PS4/PS5 (Non-Native) | V1.1 only, DO NOT UPDATE (Brick) | https://www.mayflash.com/product/MAGPS4.html                  |
-|    Mayflash    | Magic S Ultimate     | PS4/PS5 (Non-Native) | V1.06 only                       | https://www.mayflash.com/product/magic_s_ultimate.html        |
-|     Brook      | Wingman FGC          | PS4/PS5 (Non-Native) |                                  | https://www.brookaccessory.com/products/wingmanfgc/index.html |
-|     Razer      | Raion Wired Fightpad | PS4/PS5 (Non-Native) |                                  | https://www.razer.com/eu-en/console-controllers/razer-raion   |
+|  Manufacturer  | Controller-Dongle    |  Console Compatibility  | Notes                             | Link                                                          |
+|:--------------:|:---------------------|:-----------------------:|:----------------------------------|:--------------------------------------------------------------|
+|     Brook      | Wingman FGC          |  PS4, PS5 (Non-Native)  |                                   | https://www.brookaccessory.com/products/wingmanfgc/index.html |
+|    Mayflash    | Magic Boots          |  PS4, PS5 (Non-Native)  | V1.1 only - DO NOT UPDATE (Brick) | https://www.mayflash.com/product/MAGPS4.html                  |
+|    Mayflash    | Magic S Ultimate     |  PS4, PS5 (Non-Native)  | V1.06 only, V1.05 only allows PS4 | https://www.mayflash.com/product/magic_s_ultimate.html        |
+|     Razer      | Raion Wired Fightpad |  PS4, PS5 (Non-Native)  |                                   | https://www.razer.com/eu-en/console-controllers/razer-raion   |
