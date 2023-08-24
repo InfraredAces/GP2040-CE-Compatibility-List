@@ -19,10 +19,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Copy TEMPLATE to README
-        run: |
-          cp TEMPLATE.md README.md
-
       - name: setup python
         uses: actions/setup-python@v4
         with:
