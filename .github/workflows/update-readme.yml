@@ -43,8 +43,7 @@ jobs:
       - name: Push from main to publish branch.
         uses: Automattic/action-commit-to-branch@master
         with:
-          dest_branch: 'main'
-          source_branch: 'publish'
+          branch: 'publish'
           commit_message: 'Push to publish branch'
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # Required
