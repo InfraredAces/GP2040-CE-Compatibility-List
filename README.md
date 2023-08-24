@@ -1,8 +1,8 @@
 Repo: [GP2040-CE Compatibility List](https://github.com/InfraredAces/GP2040-CE-Compatibility-List)
 
-An unofficial repo to track confirmed compatiblity/non-compatiblity with controller support using GP2040-CE. No guarantee can be made that this list is 100% correct and up to date as it is based off of observation and individual testing. As games and GP2040-CE are updated, the data may become outdated so a word of warning.
+An unofficial repo to track confirmed compatibility/incompatibility with controller support using GP2040-CE. No guarantee can be made that this list is 100% correct and up to date as it is based off of observation and individual testing. As games and GP2040-CE are updated, the data may become outdated so a word of warning.
 
-If you notice an entry that is incorrectly listed, please submit an submit a response with the update to the forms below.
+If you notice an entry that is incorrectly listed, please submit a response with the update to the forms below.
 
 [GP2040-CE - PS5 Game Compatibility Google Form](https://forms.gle/5G8N6FiZHyZYVgox6)
 
