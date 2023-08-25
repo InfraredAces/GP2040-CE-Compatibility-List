@@ -27,13 +27,13 @@ As of GP2040-CE v0.7.4, USB Passthrough Authentication is also available to have
 
 This list is only considering PS5 versions of games on PS5 as PS4 mode should work on all PS4 versions of a game on PS5.
 
-| Game Title          |  GP2040-CE  | Notes                                     |
-|:--------------------|:-----------:|:------------------------------------------|
-| Breakers Collection |      ❌      | Does not support Specialty Devices at all |
-| Gran Turismo 7      |      🚗      |                                           |
-| Guilty Gear Strive  |     🕹️      |                                           |
-| Hitman 3            |      🕗      |                                           |
-| Street Fighter 6    |     🕹️      |                                           |
+| Game Title          |  GP2040-CE PS5 Compatibility  | Notes                                     |
+|:--------------------|:-----------------------------:|:------------------------------------------|
+| Breakers Collection |               ❌               | Does not support Specialty Devices at all |
+| Gran Turismo 7      |               🚗               |                                           |
+| Guilty Gear Strive  |              🕹️               |                                           |
+| Hitman 3            |               🕗               |                                           |
+| Street Fighter 6    |              🕹️               |                                           |
 
 | Symbol | Meaning                                                     |
 |:------:|-------------------------------------------------------------|
@@ -50,9 +50,11 @@ With the addition of the USB Passthrough Authentication Add-on in GP2040-CE v 0.
 
 PS5 (Non-Native): Able to be used with PS5 games that support 3rd Party licensed PS4 controllers and arcade sticks
 
-|  Manufacturer  | Controller-Dongle    |  Console Compatibility  | Notes                             | Link                                                                  |
-|:--------------:|:---------------------|:-----------------------:|:----------------------------------|:----------------------------------------------------------------------|
-|     Brook      | Wingman FGC          |  PS4, PS5 (Non-Native)  |                                   | [Link](https://www.brookaccessory.com/products/wingmanfgc/index.html) |
-|    Mayflash    | Magic Boots          |  PS4, PS5 (Non-Native)  | V1.1 only - DO NOT UPDATE (Brick) | [Link](https://www.brookaccessory.com/products/wingmanfgc/index.html) |
-|    Mayflash    | Magic S Ultimate     |  PS4, PS5 (Non-Native)  | V1.06 only, V1.05 only allows PS4 | [Link](https://www.brookaccessory.com/products/wingmanfgc/index.html) |
-|     Razer      | Raion Wired Fightpad |  PS4, PS5 (Non-Native)  |                                   | [Link](https://www.brookaccessory.com/products/wingmanfgc/index.html) |
+|  Manufacturer  | Controller-Dongle    |                   Notes                   | Link                                                 | Console Compatibility   |
+|:--------------:|:---------------------|:-----------------------------------------:|:-----------------------------------------------------|:------------------------|
+|    Mayflash    | Magic Boots          |     V1.1 only - DO NOT UPDATE (Brick)     | [Link](https://www.mayflash.com/product/MAGPS4.html) | PS4, PS5 (Non-Native)   |
+|    Mayflash    | Magic S Ultimate     |     V1.06 only, V1.05 only allows PS4     | [Link](https://www.mayflash.com/product/MAGPS4.html) | PS4, PS5 (Non-Native)   |
+|     Razer      | Raion Wired Fightpad |                                           | [Link](https://www.mayflash.com/product/MAGPS4.html) | PS4, PS5 (Non-Native)   |
+|     Brook      | Wingman FGC          |                                           | [Link](https://www.mayflash.com/product/MAGPS4.html) | PS4, PS5 (Non-Native)   |
+|      Sony      | DualShock 4          | Does not function as Specialty Controller | [Link](https://www.mayflash.com/product/MAGPS4.html) | PS4                     |
+|     Razer      | Panthera EVO         |                                           | [Link](https://www.mayflash.com/product/MAGPS4.html) | PS4, PS5 (Non-Native)   |
