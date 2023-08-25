@@ -1,7 +1,7 @@
-Timestamp,Manufacturer,Controller-Dongle,Notes,Link,Console Compatibility,"Name, Discord Username, or Gamer Tag"
-8/23/2023 23:46:10,Mayflash,Magic Boots,V1.1 only - DO NOT UPDATE (Brick),https://www.mayflash.com/product/MAGPS4.html,"PS4, PS5 (Non-Native)",TheTrain
-8/23/2023 23:48:01,Mayflash,Magic S Ultimate,"V1.06 only, V1.05 only allows PS4",https://www.mayflash.com/product/magic_s_ultimate.html,"PS4, PS5 (Non-Native)",_pettman
-8/23/2023 23:48:55,Razer,Raion Wired Fightpad,,https://www.razer.com/eu-en/console-controllers/razer-raion,"PS4, PS5 (Non-Native)",jfedor
-8/23/2023 23:49:56,Brook,Wingman FGC,,https://www.brookaccessory.com/products/wingmanfgc/index.html,"PS4, PS5 (Non-Native)",TheTrain
-8/24/2023 8:01:44,Sony,DualShock 4,Does not function as Specialty Controller,https://www.playstation.com/en-us/accessories/dualshock-4-wireless-controller/,PS4,
-8/24/2023 14:52:32,Razer,Panthera EVO,,https://mysupport.razer.com/app/answers/detail/a_id/3576/~/razer-panthera-evo,"PS4, PS5 (Non-Native)",pfanne
+Timestamp,Manufacturer,Controller-Dongle,Console Compatibility,Notes,Link,"Name, Discord Username, or Gamer Tag"
+8/23/2023 23:46:10,Mayflash,Magic Boots,"PS4, PS5 (Non-Native)",V1.1 only - DO NOT UPDATE (Brick),https://www.mayflash.com/product/MAGPS4.html,TheTrain
+8/23/2023 23:48:01,Mayflash,Magic S Ultimate,"PS4, PS5 (Non-Native)","V1.06 only, V1.05 only allows PS4",https://www.mayflash.com/product/magic_s_ultimate.html,_pettman
+8/23/2023 23:48:55,Razer,Raion Wired Fightpad,"PS4, PS5 (Non-Native)",,https://www.razer.com/eu-en/console-controllers/razer-raion,jfedor
+8/23/2023 23:49:56,Brook,Wingman FGC,"PS4, PS5 (Non-Native)",,https://www.brookaccessory.com/products/wingmanfgc/index.html,TheTrain
+8/24/2023 8:01:44,Sony,DualShock 4,PS4,Does not function as Specialty Controller,https://www.playstation.com/en-us/accessories/dualshock-4-wireless-controller/,
+8/24/2023 14:52:32,Razer,Panthera EVO,"PS4, PS5 (Non-Native)",,https://mysupport.razer.com/app/answers/detail/a_id/3576/~/razer-panthera-evo,pfanne
