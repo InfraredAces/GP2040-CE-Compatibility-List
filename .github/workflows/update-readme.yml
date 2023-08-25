@@ -43,6 +43,18 @@ jobs:
           branch: main
           push_options: '--force'
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: "contains(github.event.head_commit.message, 'Replace Current Tables with New Tables')"
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
       - name: Merge main to publish
         uses: devmasx/merge-branch@master
         with:
