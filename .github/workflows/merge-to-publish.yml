@@ -1,0 +1,32 @@
+name: Merge to publish branch
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+env:
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: "contains(github.event.head_commit.message, 'Replace Current Tables with New Tables')"
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - name: Merge main to publish
+        uses: devmasx/merge-branch@master
+        with:
+          type: now
+          target_branch: publish
+          message: Merge main to publish branch
+          github_token: ${{ secrets.GH_TOKEN }}

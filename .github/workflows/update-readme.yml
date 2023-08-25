@@ -42,12 +42,3 @@ jobs:
           commit_message: Replace Current Tables with New Tables
           branch: main
           push_options: '--force'
-
-      - name: Merge main to publish
-        uses: devmasx/merge-branch@master
-        with:
-          type: now
-          target_branch: publish
-          message: Merge main to publish branch
-          github_token: ${{ secrets.GH_TOKEN }}
-
