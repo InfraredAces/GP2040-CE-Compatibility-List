@@ -50,11 +50,11 @@ With the addition of the USB Passthrough Authentication Add-on in GP2040-CE v 0.
 
 PS5 (Non-Native): Able to be used with PS5 games that support 3rd Party licensed PS4 controllers and arcade sticks
 
-|  Manufacturer  | Controller-Dongle    |                   Notes                   | Link                                                 | Console Compatibility   |
-|:--------------:|:---------------------|:-----------------------------------------:|:-----------------------------------------------------|:------------------------|
-|    Mayflash    | Magic Boots          |     V1.1 only - DO NOT UPDATE (Brick)     | [Link](https://www.mayflash.com/product/MAGPS4.html) | PS4, PS5 (Non-Native)   |
-|    Mayflash    | Magic S Ultimate     |     V1.06 only, V1.05 only allows PS4     | [Link](https://www.mayflash.com/product/MAGPS4.html) | PS4, PS5 (Non-Native)   |
-|     Razer      | Raion Wired Fightpad |                                           | [Link](https://www.mayflash.com/product/MAGPS4.html) | PS4, PS5 (Non-Native)   |
-|     Brook      | Wingman FGC          |                                           | [Link](https://www.mayflash.com/product/MAGPS4.html) | PS4, PS5 (Non-Native)   |
-|      Sony      | DualShock 4          | Does not function as Specialty Controller | [Link](https://www.mayflash.com/product/MAGPS4.html) | PS4                     |
-|     Razer      | Panthera EVO         |                                           | [Link](https://www.mayflash.com/product/MAGPS4.html) | PS4, PS5 (Non-Native)   |
+|  Manufacturer  | Controller-Dongle    |  Console Compatibility  | Notes                                     | Link                                                 |
+|:--------------:|:---------------------|:-----------------------:|:------------------------------------------|:-----------------------------------------------------|
+|    Mayflash    | Magic Boots          |  PS4, PS5 (Non-Native)  | V1.1 only - DO NOT UPDATE (Brick)         | [Link](https://www.mayflash.com/product/MAGPS4.html) |
+|    Mayflash    | Magic S Ultimate     |  PS4, PS5 (Non-Native)  | V1.06 only, V1.05 only allows PS4         | [Link](https://www.mayflash.com/product/MAGPS4.html) |
+|     Razer      | Raion Wired Fightpad |  PS4, PS5 (Non-Native)  |                                           | [Link](https://www.mayflash.com/product/MAGPS4.html) |
+|     Brook      | Wingman FGC          |  PS4, PS5 (Non-Native)  |                                           | [Link](https://www.mayflash.com/product/MAGPS4.html) |
+|      Sony      | DualShock 4          |           PS4           | Does not function as Specialty Controller | [Link](https://www.mayflash.com/product/MAGPS4.html) |
+|     Razer      | Panthera EVO         |  PS4, PS5 (Non-Native)  |                                           | [Link](https://www.mayflash.com/product/MAGPS4.html) |
