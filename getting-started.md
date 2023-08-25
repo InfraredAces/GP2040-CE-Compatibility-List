@@ -6,7 +6,7 @@ This repo utilises Github Actions to generate a README by copying TEMPLATE and r
 
 ## Updating README.md
 
-In order to update the README, the TEMPLATE must be updated as this will then be copied by the python script when merged into main.
+In order to update the README, the TEMPLATE must be updated as this will then be copied into README by the python script when merged into main. This is to provide the placeholder text and allow the script to properly substitute the Markdown tables.
 
 ## CSV Format
 
