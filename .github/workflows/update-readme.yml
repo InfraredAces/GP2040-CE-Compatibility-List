@@ -39,6 +39,7 @@ jobs:
         with:
           commit_message: Replace Current Tables with New Tables
           branch: main
+          push_options: '--force'
 
       - name: Merge main to publish
         uses: devmasx/merge-branch@master
