@@ -6,10 +6,9 @@ shutil.copyfile("TEMPLATE.md", "README.md")
 ps5_compatibility = pd.read_csv('GP2040-CE Compatibility List - PS5 Games.csv', keep_default_na=False, usecols=[*range(1, 4, 1)])
 
 usb_passthrough_devices = pd.read_csv('GP2040-CE Compatibility List - USB Passthrough.csv', keep_default_na=False, usecols=[*range(1, 6, 1)])
-usb_passthrough_devices["Link"] = f'[Link]({usb_passthrough_devices["Link"].values[0]})'
 
-# print(ps5_compatibility)
-print(usb_passthrough_devices)
+for index, url in enumerate(usb_passthrough_devices['Link'].values):
+    usb_passthrough_devices['Link'].values[index] = f"[Link]({url})"
 
 with open('README.md', 'r') as readme:
     data = readme.read()
