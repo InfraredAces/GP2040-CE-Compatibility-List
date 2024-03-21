@@ -15,6 +15,9 @@ xboxone_passthrough_devices = pd.read_csv(
 for index, url in enumerate(usb_passthrough_devices['Link'].values):
     usb_passthrough_devices['Link'].values[index] = f"[Link]({url})"
 
+for index, url in enumerate(xboxone_passthrough_devices['Link'].values):
+    xboxone_passthrough_devices['Link'].values[index] = f"[Link]({url})"
+
 with open('README.md', 'r') as readme:
     data = readme.read()
 
@@ -29,5 +32,6 @@ with open('README.md', 'r') as readme:
     xboxone_passthrough_devices_replace_text = "--Xbox One Passthrough Authentication Device Table--"
     data = data.replace(xboxone_passthrough_devices_replace_text, xboxone_passthrough_devices.to_markdown(
         index=False, colalign=("center", "left", "center", "left", "left",)))
+
 with open(r'README.md', 'w') as readme:
     readme.write(data)
