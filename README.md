@@ -87,7 +87,7 @@ NOTE: There are **_many_** clones and knockoffs available on sites such as Amazo
 
 With the addition of the Xbox One Passthrough Add-on in GP2040-CE v 0.7.6, Xbox One, Series S, and Series X compatibility is available.
 
-|  Manufacturer  | Controller-Dongle    |  Console Compatibility  | Notes   | Link                                          |
-|:--------------:|:---------------------|:-----------------------:|:--------|:----------------------------------------------|
-|    Mayflash    | Magic Boots Xbox One |       Xbox O/S/X        |         | https://www.mayflash.com/product/MAGONE.html  |
-|    Mayflash    | Magic X              |       Xbox O/S/X        |         | https://www.mayflash.com/product/magic_x.html |
+|  Manufacturer  | Controller-Dongle    |  Console Compatibility  | Notes   | Link                                                  |
+|:--------------:|:---------------------|:-----------------------:|:--------|:------------------------------------------------------|
+|    Mayflash    | Magic Boots Xbox One |       Xbox O/S/X        |         | [Link](https://www.mayflash.com/product/MAGONE.html)  |
+|    Mayflash    | Magic X              |       Xbox O/S/X        |         | [Link](https://www.mayflash.com/product/magic_x.html) |
