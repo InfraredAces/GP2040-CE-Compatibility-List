@@ -26,7 +26,8 @@ If you notice an entry that is incorrectly listed, please submit a response with
 
 With the addition of the PS4 Mode and PS4 Authentication Add-On in GP2040-CE v0.7.1, all PS4 games are now compatible with GP2040-CE controllers in PS4 mode. However, unless authentications files are provided, the controller may be subject to an 8 minute timeout.
 
-As of GP2040-CE v0.7.4, USB passthrough authentication is also available to have PS4 compatibility provided that the valid PS4 device is used. This disqualifies unauthorised PS4 controllers that have the 8 minute timeout and auto-restart as a work around.
+
+As of GP2040-CE v0.7.4, USB Passthrough Authentication is also available to have PS4 compatibility provided that the valid PS4 device is used. This disqualifies unauthorised PS4 controllers that have the 8 minute timeout and auto-restart as a work around.
 
 # Playstation 5 Games
 
