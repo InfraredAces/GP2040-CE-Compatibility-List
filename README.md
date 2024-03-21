@@ -26,8 +26,7 @@ If you notice an entry that is incorrectly listed, please submit a response with
 
 With the addition of the PS4 Mode and PS4 Authentication Add-On in GP2040-CE v0.7.1, all PS4 games are now compatible with GP2040-CE controllers in PS4 mode. However, unless authentications files are provided, the controller may be subject to an 8 minute timeout.
 
-
-As of GP2040-CE v0.7.4, USB Passthrough Authentication is also available to have PS4 compatibility provided that the valid PS4 device is used. This disqualifies unauthorised PS4 controllers that have the 8 minute timeout and auto-restart as a work around.
+As of GP2040-CE v0.7.4, USB passthrough authentication is also available to have PS4 compatibility provided that the valid PS4 device is used. This disqualifies unauthorised PS4 controllers that have the 8 minute timeout and auto-restart as a work around.
 
 # Playstation 5 Games
 
@@ -35,33 +34,29 @@ This list is only considering PS5 versions of games on PS5 as PS4 mode should wo
 
 | Game Title                                             |  GP2040-CE PS5 Compatibility  | Notes                                     |
 |:-------------------------------------------------------|:-----------------------------:|:------------------------------------------|
-| Breakers Collection                                    |              ❌               | Does not support Specialty Devices at all |
-| DNF Duel                                               |              ✅               |                                           |
-| Doki Doki Literature Club Plus!                        |              ❌               |                                           |
-| Gran Turismo 7                                         |              ✅               |                                           |
-| Guilty Gear Strive                                     |              ✅               |                                           |
-| Hitman 3                                               |              ✅               |                                           |
-| Judgment                                               |              ✅               |                                           |
-| King of Fighters XV                                    |              ✅               |                                           |
-| Mortal Kombat 11 Ultimate                              |              ✅               |                                           |
-| Mortatl Kombat 1                                       |              ✅               |                                           |
-| Puyo Puyo Tetris 2                                     |              ❌               |                                           |
-| Raiden III x MIKADO MANIAX                             |              ✅               |                                           |
-| Record of Lodoss War -Deedlit in Wonder Labyrinth      |              ❌               |                                           |
-| Street Fighter 6                                       |              ✅               |                                           |
-| Teenage Mutant Ninja Turtles: The Cowabunga Collection |              ✅               |                                           |
-| Tekken 8                                               |              ✅               |                                           |
-| UnderNight INbirth II                                  |              ✅               |                                           |
-| Xenon Valkyrie+                                        |              ❌               |                                           |
+| Breakers Collection                                    |               ❌               | Does not support Specialty Devices at all |
+| DNF Duel                                               |               ✅               |                                           |
+| Doki Doki Literature Club Plus!                        |               ❌               |                                           |
+| Gran Turismo 7                                         |               ✅               |                                           |
+| Guilty Gear Strive                                     |               ✅               |                                           |
+| Hitman 3                                               |               ✅               |                                           |
+| Judgment                                               |               ✅               |                                           |
+| King of Fighters XV                                    |               ✅               |                                           |
+| Mortal Kombat 11 Ultimate                              |               ✅               |                                           |
+| Mortatl Kombat 1                                       |               ✅               |                                           |
+| Puyo Puyo Tetris 2                                     |               ❌               |                                           |
+| Raiden III x MIKADO MANIAX                             |               ✅               |                                           |
+| Record of Lodoss War -Deedlit in Wonder Labyrinth      |               ❌               |                                           |
+| Street Fighter 6                                       |               ✅               |                                           |
+| Teenage Mutant Ninja Turtles: The Cowabunga Collection |               ✅               |                                           |
+| Tekken 8                                               |               ✅               |                                           |
+| UnderNight INbirth II                                  |               ✅               |                                           |
+| Xenon Valkyrie+                                        |               ❌               |                                           |
 
-| Symbol | Meaning                                                                              |
-| :----: | ------------------------------------------------------------------------------------ |
-|   ✅   | Full Compatibility                                                                   |
-|   ❌   | No Compatibility                                                                     |
-|   🕗   | Compatibility with GP2040-CE PS5 Mode, without USB Passthrough, Has 8 minute timeout |
-|   🕹️   | Compatibility if using a PS4 Arcade Controller                                       |
-|   🚗   | Compatibility if using a PS4 Steering Wheel                                          |
-|   ✈️   | Compatibility if using a PS4 Flight Joystick                                         |
+| Symbol | Meaning                                     |
+| :----: | ------------------------------------------- |
+|   ✅   | Compatibility with GP2040-CE PS Passthrough |
+|   ❌   | No Compatibility                            |
 
 # Passthrough Authentication
 
@@ -69,7 +64,7 @@ This list is only considering PS5 versions of games on PS5 as PS4 mode should wo
 
 With the addition of the PS Passthrough Add-on in GP2040-CE v 0.7.4, both PS4 and non-native PS5 compatibility is available.
 
-PS5 (Non-Native): Able to be used with PS5 games that support 3rd Party licensed PS4 controllers and arcade sticks
+**PS5 (Non-Native)**: Able to be used with PS5 games that support 3rd Party licensed PS4 controllers and arcade sticks
 
 |  Manufacturer  | Controller-Dongle             |  Console Compatibility  | Notes                             | Link                                                                                      |
 |:--------------:|:------------------------------|:-----------------------:|:----------------------------------|:------------------------------------------------------------------------------------------|
